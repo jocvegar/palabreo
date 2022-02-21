@@ -1,7 +1,5 @@
 <template>
-  <div class="hidden md:inline-block">
-    <div class="simple-keyboard"></div>
-  </div>
+  <div class="simple-keyboard"></div>
 </template>
 
 <script setup>
